@@ -1,0 +1,157 @@
+[
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-09-11T18:44:24.233Z[UTC]",
+    "searchQuery" : "Italian",
+    "searchInteractionURIs" : [
+      "spotify:playlist:1RcwNkHZB2yCJ5xJVPUngs"
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2020-09-16T18:49:50.538Z[UTC]",
+    "searchQuery" : "road",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZF1DX9wC1KY45plY"
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2020-09-16T18:50:06.019Z[UTC]",
+    "searchQuery" : "roadtrip",
+    "searchInteractionURIs" : [
+      "spotify:playlist:0l0a4uSRYz0VWnt38VAEzR",
+      ""
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2020-09-16T19:30:10.006Z[UTC]",
+    "searchQuery" : "roadtr",
+    "searchInteractionURIs" : [
+      "spotify:playlist:0l0a4uSRYz0VWnt38VAEzR"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-07T21:09:04.140Z[UTC]",
+    "searchQuery" : "teardr",
+    "searchInteractionURIs" : [
+      "spotify:track:67Hna13dNDkZvBpTXRIaOJ",
+      "spotify:track:67Hna13dNDkZvBpTXRIaOJ"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-07T21:11:07.921Z[UTC]",
+    "searchQuery" : "goril",
+    "searchInteractionURIs" : [
+      "spotify:artist:3AA28KZvwAUcZuOKwyblJQ"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-07T21:12:16.377Z[UTC]",
+    "searchQuery" : "frank o",
+    "searchInteractionURIs" : [
+      "spotify:artist:2h93pZq0e7k5yf4dywlkpM"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-07T21:13:37.904Z[UTC]",
+    "searchQuery" : "king li",
+    "searchInteractionURIs" : [
+      "spotify:playlist:1zEwzbngqrVTdHH69UBHdo"
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2020-10-30T20:54:52.640Z[UTC]",
+    "searchQuery" : "sweet ",
+    "searchInteractionURIs" : [
+      "spotify:track:1TfqLAPs4K3s2rJMoCokcS"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-02T15:18:34.654Z[UTC]",
+    "searchQuery" : "patla",
+    "searchInteractionURIs" : [
+      "spotify:track:4InPkb53JOmTmpM1njbl6A",
+      "spotify:artist:4Rhx0H3w80yqUMSiPfq0Cz"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-09T14:29:33.552Z[UTC]",
+    "searchQuery" : "Stronzi",
+    "searchInteractionURIs" : [
+      "spotify:search:Stronzi:playlists"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-09T14:30:12.453Z[UTC]",
+    "searchQuery" : "Juan garcia",
+    "searchInteractionURIs" : [
+      "spotify:search:Juan%20garcia:profiles"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-09T15:40:23.896Z[UTC]",
+    "searchQuery" : "tame impa",
+    "searchInteractionURIs" : [
+      "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-20T12:13:51.987Z[UTC]",
+    "searchQuery" : "laura paus",
+    "searchInteractionURIs" : [
+      "spotify:artist:2e4nwiX8ZCU09LGLOpeqTH"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-24T16:44:19.674Z[UTC]",
+    "searchQuery" : "basslines",
+    "searchInteractionURIs" : [
+      "spotify:playlist:5wViVnSTGQiOG212LbRHp3",
+      "spotify:search:basslines:playlists"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-25T09:01:35.848Z[UTC]",
+    "searchQuery" : "https://link.tospotify.com/g7RhNsbiHbb",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-25T09:04:15.908Z[UTC]",
+    "searchQuery" : "AH, pero anoche",
+    "searchInteractionURIs" : [
+      "spotify:search:AH%2C%20pero%20anoche:playlists"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-25T09:04:34.162Z[UTC]",
+    "searchQuery" : "AH, ¡pero anoche!",
+    "searchInteractionURIs" : [
+      "spotify:search:AH%2C%20%C2%A1pero%20anoche!:playlists"
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2020-11-30T07:49:32.605Z[UTC]",
+    "searchQuery" : "algiers",
+    "searchInteractionURIs" : [
+      "spotify:artist:58WFmcqNmejE2IpVIna43o"
+    ]
+  }
+]
